@@ -1,0 +1,11 @@
+# Dependencies for app_search.py — Streamlit Community Cloud deployment.
+#
+# Only the Google AI (OllamaGeminiProvider) path is used by the app. The
+# Databricks provider (needs `openai`) and Local provider (needs
+# `sentence-transformers`/torch) are imported optionally in search_v2.py, so
+# they are intentionally omitted here to keep the build small and fast.
+streamlit>=1.54.0
+google-generativeai>=0.8.6
+numpy>=1.26,<3
+pandas>=2.0
+rapidfuzz>=3.0
