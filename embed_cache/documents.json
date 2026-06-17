@@ -1,0 +1,802 @@
+[
+  {
+    "doc_id": 1,
+    "text": "My doctor prescribed Humira for my rheumatoid arthritis and I've been waiting 3 weeks for the prior authorization to go through. My joints are getting worse while insurance plays games."
+  },
+  {
+    "doc_id": 2,
+    "text": "The prior auth process for my insulin pump supplies is a nightmare. I have to resubmit every 6 months even though I've been a diabetic for 20 years. Nothing has changed."
+  },
+  {
+    "doc_id": 3,
+    "text": "Specialty pharmacy keeps saying they're waiting on my insurance to approve my multiple sclerosis medication. Meanwhile I'm 2 weeks past my last dose. This is dangerous."
+  },
+  {
+    "doc_id": 4,
+    "text": "I was denied coverage for my migraine medication because insurance said I have to try 3 other medications first. I already tried them years ago and they didn't work. Now I have to do it all over again."
+  },
+  {
+    "doc_id": 5,
+    "text": "Called the pharmacy line 4 times this week. Each person tells me something different about why my prior auth was denied. No one can give me a straight answer."
+  },
+  {
+    "doc_id": 6,
+    "text": "My antidepressant was moved to a higher tier on the formulary. My monthly cost went from $45 to $210 overnight. I can't afford that on my current budget."
+  },
+  {
+    "doc_id": 7,
+    "text": "The prior authorization for my ADHD medication takes 2 weeks every single time I need a refill. It's the same medication I've been on for 5 years. Why do I have to keep proving I need it?"
+  },
+  {
+    "doc_id": 8,
+    "text": "Denied my Ozempic prescription for diabetes management. My A1C is dangerously high and my doctor says this is the right treatment but insurance apparently knows better."
+  },
+  {
+    "doc_id": 9,
+    "text": "Specialty pharmacy called to tell me my biologics would be $4,200 after insurance. That can't be right. No one can explain how they arrived at that number."
+  },
+  {
+    "doc_id": 10,
+    "text": "Step therapy is ridiculous. My doctor said methotrexate is wrong for my condition but I have to fail on it first before insurance will cover what actually works."
+  },
+  {
+    "doc_id": 11,
+    "text": "Prior auth submitted 3 times for my sleep apnea medication. Three times denied. My doctor keeps adding documentation and they keep finding new reasons to deny it."
+  },
+  {
+    "doc_id": 12,
+    "text": "The formulary they sent me at the start of the year was already out of date. Found out at the pharmacy when my blood pressure medication wasn't covered anymore."
+  },
+  {
+    "doc_id": 13,
+    "text": "Trying to use mail order pharmacy to save money but the transfer has been stuck for 6 weeks. Still paying full retail prices at the local pharmacy in the meantime."
+  },
+  {
+    "doc_id": 14,
+    "text": "My 6 year old's EpiPen prior auth was denied. An EpiPen. For a child with a documented severe peanut allergy. How is this even possible."
+  },
+  {
+    "doc_id": 15,
+    "text": "Got a letter saying my exception request for a non-formulary drug was denied. Letter came 3 days after the deadline to appeal. Suspicious timing."
+  },
+  {
+    "doc_id": 16,
+    "text": "Copay for my brand name medication is $75 but the generic isn't available yet. Called to ask about a copay assistance program and was told I don't qualify because I have insurance."
+  },
+  {
+    "doc_id": 17,
+    "text": "Specialty pharmacy shipped my medication to my old address even though I updated it online twice. Now I have to wait another 2 weeks for a replacement shipment approval."
+  },
+  {
+    "doc_id": 18,
+    "text": "Prior auth for my CPAP machine was denied because they said the sleep study wasn't recent enough. I had it done 13 months ago and their policy says 12 months. For a machine I already use every night."
+  },
+  {
+    "doc_id": 19,
+    "text": "Tried to fill a 90-day supply of my maintenance medication but the system only allowed 30 days even though my plan covers 90-day fills. Took 4 calls to correct."
+  },
+  {
+    "doc_id": 20,
+    "text": "My chemotherapy medication requires a new prior authorization every 6 weeks. I'm fighting cancer and spending energy on insurance paperwork instead of healing."
+  },
+  {
+    "doc_id": 21,
+    "text": "The prior auth form my doctor submitted was rejected because it wasn't on the right form version. No one told us there was a specific required form until after the deadline passed."
+  },
+  {
+    "doc_id": 22,
+    "text": "Been trying to get my antifungal prescription approved for 3 weeks. The infection is getting worse while we wait for a decision."
+  },
+  {
+    "doc_id": 23,
+    "text": "Medication denied under the formulary exception process. The denial letter said I could appeal but the phone number on the letter is disconnected."
+  },
+  {
+    "doc_id": 24,
+    "text": "Humira is on my plan's formulary but the specialty pharmacy says my plan requires me to use their pharmacy exclusively. Found this out after 2 months of trying to fill it elsewhere."
+  },
+  {
+    "doc_id": 25,
+    "text": "My anxiety medication was covered last year but isn't this year. Nobody notified me the formulary changed until I tried to fill it in January."
+  },
+  {
+    "doc_id": 26,
+    "text": "Prior auth approved then reversed 3 days later with no explanation. My medication is sitting at the pharmacy and I cannot pick it up."
+  },
+  {
+    "doc_id": 27,
+    "text": "The specialty pharmacy my insurance requires doesn't deliver and is 45 minutes away. My previous pharmacy was 5 minutes from my house and offered delivery."
+  },
+  {
+    "doc_id": 28,
+    "text": "I need a medication that isn't on the formulary but is the only FDA-approved option for my condition. Exception request denied. What exactly are my options?"
+  },
+  {
+    "doc_id": 29,
+    "text": "My prescription drug plan changed this year and now my heart medication costs $340 a month instead of $85. I'm on a fixed income and may have to stop taking it."
+  },
+  {
+    "doc_id": 30,
+    "text": "Prior auth for my biologics is expiring and the renewal form was sent to the wrong doctor. We've been trying to fix this for 5 weeks with no resolution."
+  },
+  {
+    "doc_id": 31,
+    "text": "The pharmacist told me my insurance rejected the prescription because it requires prior auth. No one from my insurance ever informed me this drug required authorization."
+  },
+  {
+    "doc_id": 32,
+    "text": "I had to call my insurance 8 times to get the specialty pharmacy to actually ship my medication. Every call I was told it would ship within 24 hours."
+  },
+  {
+    "doc_id": 33,
+    "text": "My asthma inhaler moved from tier 2 to tier 3. It now costs $115 instead of $35. My inhaler. The one I need to breathe."
+  },
+  {
+    "doc_id": 34,
+    "text": "Prior auth denied because my doctor didn't include the right diagnosis code. This is a coding issue on the submission not a medical decision. Still took 3 weeks to fix."
+  },
+  {
+    "doc_id": 35,
+    "text": "Mail order pharmacy lost my refill order. They have no record of it even though I have a confirmation number. Starting a new order means another 2-week wait."
+  },
+  {
+    "doc_id": 36,
+    "text": "My son's growth hormone medication requires a prior authorization AND a separate exception request every year. The process takes 6 weeks and he cannot miss doses."
+  },
+  {
+    "doc_id": 37,
+    "text": "I asked for a prior auth exception for a medication my previous insurance covered for 4 years. Denied because my new plan considers it experimental."
+  },
+  {
+    "doc_id": 38,
+    "text": "Step therapy requirement says I have to try and fail two cheaper drugs before they'll cover the one that works for my neuropathic pain. My doctor has documented I've already failed those drugs."
+  },
+  {
+    "doc_id": 39,
+    "text": "My eye drops for glaucoma aren't covered. The alternative they suggest isn't approved for my specific type of glaucoma. My doctor says the alternative isn't safe for my case."
+  },
+  {
+    "doc_id": 40,
+    "text": "Getting a prior authorization took longer than the infection itself. My antibiotic was finally approved 4 days after I finished the sample pack my doctor gave me."
+  },
+  {
+    "doc_id": 41,
+    "text": "I enrolled in a new plan and my current medications weren't on the formulary. Found out at the pharmacy counter. My enrollment agent never checked drug coverage."
+  },
+  {
+    "doc_id": 42,
+    "text": "Prior auth approved for 30 days only. My prescription is for a 90-day supply. Why authorize one month at a time for a chronic lifelong condition?"
+  },
+  {
+    "doc_id": 43,
+    "text": "I switched plans during open enrollment and nobody told me my specialty medication would require prior auth under the new plan. Now I have a 3-week gap in medication."
+  },
+  {
+    "doc_id": 44,
+    "text": "The copay tier for my blood thinner changed mid-year without any notice. My out of pocket went from $30 to $95 per fill with no warning."
+  },
+  {
+    "doc_id": 45,
+    "text": "Prior auth for post-surgical pain medication denied because it's an opioid. I just had spinal surgery. What are patients supposed to do for pain management?"
+  },
+  {
+    "doc_id": 46,
+    "text": "Formulary exception was approved but on the condition I use the mail order pharmacy. Mail order said the prior auth number from the exception doesn't match what they need."
+  },
+  {
+    "doc_id": 47,
+    "text": "My insulin was moved to a non-preferred tier. The copay difference is $185 a month. Insulin. The medication I need to survive every single day."
+  },
+  {
+    "doc_id": 48,
+    "text": "Specialty medication approved by prior auth but the specialty pharmacy my insurance requires doesn't have it in stock and has no estimate of when they will."
+  },
+  {
+    "doc_id": 49,
+    "text": "Prior auth shows as approved in my insurance portal but was rejected at the pharmacy. Spent 2 hours on hold trying to get someone to reconcile why."
+  },
+  {
+    "doc_id": 50,
+    "text": "My pharmacy told me the prior auth was approved but I still had to pay full price because the approval hadn't been transmitted to the pharmacy yet. Now I need to get reimbursed somehow."
+  },
+  {
+    "doc_id": 51,
+    "text": "Submitted a claim for my son's ER visit in October. It's now March and the claim is still showing as in process. Five calls later and still no resolution."
+  },
+  {
+    "doc_id": 52,
+    "text": "Received an explanation of benefits showing I owe $2,400 for a procedure my doctor said was fully covered. Nobody can explain why the claim was denied."
+  },
+  {
+    "doc_id": 53,
+    "text": "The hospital billed the wrong insurance code and my claim was denied. I shouldn't have to be the one to fix a billing error that I didn't make."
+  },
+  {
+    "doc_id": 54,
+    "text": "I've been getting balance billed by an out-of-network anesthesiologist even though my surgery was at an in-network hospital. I didn't choose my anesthesiologist."
+  },
+  {
+    "doc_id": 55,
+    "text": "My claim was processed and then reprocessed twice and each time the amount I owe is different. I don't know which bill to pay or what the correct amount actually is."
+  },
+  {
+    "doc_id": 56,
+    "text": "Spent 3 hours on the phone trying to understand my EOB. The codes and explanations are completely incomprehensible to any normal person."
+  },
+  {
+    "doc_id": 57,
+    "text": "Filed a claim appeal 4 months ago. Still no decision. Health insurance is legally required to respond within 60 days and they have ignored that completely."
+  },
+  {
+    "doc_id": 58,
+    "text": "Claim denied because the diagnosis code and procedure code allegedly don't match. My doctor coded it exactly as the procedure was performed. This is a claims processing error on their end."
+  },
+  {
+    "doc_id": 59,
+    "text": "The out-of-pocket maximum shown on my portal doesn't match what shows on my EOB. Which number is correct? My deductible situation affects real financial decisions."
+  },
+  {
+    "doc_id": 60,
+    "text": "I got a bill from my lab for $890 that I thought my insurance covered. My plan says labs are covered at 100% after deductible. My deductible was met back in February."
+  },
+  {
+    "doc_id": 61,
+    "text": "Two claims for the same visit were processed differently. One was paid and one was denied. Same date, same provider, same type of service with no explanation."
+  },
+  {
+    "doc_id": 62,
+    "text": "I submitted receipts for reimbursement on 4 procedures. Three were reimbursed and one wasn't. No explanation was given for the inconsistent treatment."
+  },
+  {
+    "doc_id": 63,
+    "text": "My insurance paid the wrong amount on a claim and now the provider is billing me the difference. Insurance says it was processed correctly. Provider says it wasn't. I'm stuck in the middle."
+  },
+  {
+    "doc_id": 64,
+    "text": "Claim for my mammogram was denied because they coded it as diagnostic instead of preventive. My doctor's office coded it as preventive. This has been going back and forth for 6 months."
+  },
+  {
+    "doc_id": 65,
+    "text": "I've hit my out-of-pocket maximum for the year but dental claims are still being processed with member cost share. My plan documents say OOP max covers dental."
+  },
+  {
+    "doc_id": 66,
+    "text": "My therapist submitted claims that were denied as out-of-network but she is listed as in-network on the insurance website. The directory has been wrong for months."
+  },
+  {
+    "doc_id": 67,
+    "text": "Claim denied as a duplicate even though the first claim was also denied. So a duplicate of a denied claim is the explanation? None of this makes sense."
+  },
+  {
+    "doc_id": 68,
+    "text": "I paid a bill that was later covered by insurance but the refund from the provider never arrived. Now both the provider and insurance say to talk to the other one."
+  },
+  {
+    "doc_id": 69,
+    "text": "My newborn's claims weren't processed because she wasn't added to my policy fast enough after birth. She had a medical emergency at 3 days old. Now I'm being asked to pay $18,000."
+  },
+  {
+    "doc_id": 70,
+    "text": "Claim for physical therapy was denied because pre-authorization wasn't obtained. My doctor's office says they submitted the authorization. Nobody can locate it."
+  },
+  {
+    "doc_id": 71,
+    "text": "I've been submitting the same claim for 4 months. Each time I'm told something is missing. I provide what they ask. Then something else is supposedly missing."
+  },
+  {
+    "doc_id": 72,
+    "text": "Coordination of benefits is completely broken. My primary and secondary insurance have been going back and forth for 8 months and my unpaid bills are going to collections."
+  },
+  {
+    "doc_id": 73,
+    "text": "EOB shows I owe $540 for my hip replacement but when I called the hospital they say I owe $1,200. Who do I pay when both numbers come from official sources?"
+  },
+  {
+    "doc_id": 74,
+    "text": "My claim was denied as not medically necessary for a procedure my doctor ordered. My doctor submitted supporting documentation twice and it was denied both times."
+  },
+  {
+    "doc_id": 75,
+    "text": "Reimbursement for out-of-network emergency care has been pending for 5 months. I paid out of pocket during an emergency and cannot recover my money."
+  },
+  {
+    "doc_id": 76,
+    "text": "My insurance processed my knee surgery claim as outpatient when it was clearly inpatient with an overnight stay. The reimbursement is $1,000 less because of this error."
+  },
+  {
+    "doc_id": 77,
+    "text": "Claim for my sleep study shows $1,800 in member responsibility. My deductible was met 3 months ago. This should be 80/20 coinsurance not full cost."
+  },
+  {
+    "doc_id": 78,
+    "text": "I've been charged cost-sharing for a preventive colonoscopy. Preventive screenings are supposed to be covered at 100% under the ACA. I've called three times and nothing changes."
+  },
+  {
+    "doc_id": 79,
+    "text": "Getting an itemized bill is apparently impossible. The hospital won't provide one and insurance says they only see what the hospital submits. I just need to know what I'm paying for."
+  },
+  {
+    "doc_id": 80,
+    "text": "My claims for out-of-state emergency care were denied because I didn't call for authorization in advance. It was a genuine emergency. I was unconscious when I arrived."
+  },
+  {
+    "doc_id": 81,
+    "text": "Claim filed March 2nd. Portal shows processing. Called April 10th and was told still processing. Called May 8th and was told they have no record of the claim at all."
+  },
+  {
+    "doc_id": 82,
+    "text": "Insurance paid my provider then reversed the payment 6 weeks later with no explanation. Provider is now billing me the full amount and insurance says they'll look into it."
+  },
+  {
+    "doc_id": 83,
+    "text": "Filed a claim for my daughter's mental health visit. Denied because the therapist's NPI number was entered incorrectly. This same therapist's claims have been paid for 2 years."
+  },
+  {
+    "doc_id": 84,
+    "text": "My annual deductible resets every calendar year but claims from December are being applied to January's deductible instead. I've been fighting this error for 3 months."
+  },
+  {
+    "doc_id": 85,
+    "text": "Claim for my husband's cardiac catheterization was denied as not medically necessary. The denial says it wasn't medically necessary. He was having a heart attack when it was performed."
+  },
+  {
+    "doc_id": 86,
+    "text": "Two different agents told me two completely different things about how my claim was processed. I am getting contradictory information from the same company every time I call."
+  },
+  {
+    "doc_id": 87,
+    "text": "Charged full price at an urgent care listed as in-network. They say insurance processed it as out-of-network. Insurance says it processed correctly. I owe $400 with no resolution."
+  },
+  {
+    "doc_id": 88,
+    "text": "I can see my claim in the portal but cannot download or print the EOB. The download button simply does not work. I need this document for my annual taxes."
+  },
+  {
+    "doc_id": 89,
+    "text": "Claim denied because my physician's office submitted under an incorrect group NPI number. This is an administrative error I had nothing to do with. I shouldn't owe full cost."
+  },
+  {
+    "doc_id": 90,
+    "text": "Out-of-pocket maximum was met in August. I've been paying copays since September and getting reimbursed requires a written request with a 90-day processing window."
+  },
+  {
+    "doc_id": 91,
+    "text": "My chiropractor has submitted the same claim 3 times and it keeps being rejected as a duplicate even though the previous submissions were also rejected and never processed."
+  },
+  {
+    "doc_id": 92,
+    "text": "The claims appeals process requires a written letter sent by certified mail. It is 2024 and this feels like it's deliberately designed to discourage people from appealing."
+  },
+  {
+    "doc_id": 93,
+    "text": "My prescription drug claim shows a higher cost share than what I actually paid at the pharmacy. Now I'm being asked to pay the difference on top of what I already paid."
+  },
+  {
+    "doc_id": 94,
+    "text": "Claim for a second opinion was denied as a duplicate of my original consultation even though it was a completely different doctor providing a different professional opinion."
+  },
+  {
+    "doc_id": 95,
+    "text": "I paid full price for my MRI because the claim wasn't pre-authorized. The pre-authorization was submitted by my doctor and I have the confirmation number. Still denied."
+  },
+  {
+    "doc_id": 96,
+    "text": "Claims for physical therapy sessions are being rejected one by one with no pattern. Some sessions approved and some denied. My PT can't get a straight answer from anyone either."
+  },
+  {
+    "doc_id": 97,
+    "text": "I submitted a claim for durable medical equipment 4 months ago. I was told I'd receive a decision in 30 days. I am still waiting with no status updates."
+  },
+  {
+    "doc_id": 98,
+    "text": "Balance billing from a pathologist at my in-network hospital. The pathologist read my biopsy results and apparently isn't in-network. I didn't select this pathologist."
+  },
+  {
+    "doc_id": 99,
+    "text": "My claim was partially paid but the denial reason says not medically necessary. If it wasn't medically necessary why was any portion of it paid at all?"
+  },
+  {
+    "doc_id": 100,
+    "text": "EOB was sent to my old address even though I updated it. I missed the appeal window because I never received the denial letter in time to respond."
+  },
+  {
+    "doc_id": 101,
+    "text": "My primary care doctor retired and I've been trying for 3 months to find a new in-network doctor who is accepting patients. The provider directory is so outdated it's useless."
+  },
+  {
+    "doc_id": 102,
+    "text": "Referral to a specialist takes 2 weeks to process. Meanwhile my condition is getting worse and there's nothing I can do but wait for a piece of paper to move forward."
+  },
+  {
+    "doc_id": 103,
+    "text": "The cardiologist my doctor referred me to is listed as in-network on the website. When I called to schedule they told me they dropped the network 6 months ago. The directory is dangerously wrong."
+  },
+  {
+    "doc_id": 104,
+    "text": "Mental health provider availability in my area is terrible. Every therapist who accepts my insurance has a 3 to 6 month waiting list. I'm in crisis not planning ahead for fun."
+  },
+  {
+    "doc_id": 105,
+    "text": "My telehealth appointment was scheduled but the doctor never joined the video call. Customer service said they'd reschedule for next week. I took time off work for nothing."
+  },
+  {
+    "doc_id": 106,
+    "text": "I needed to go to the emergency room and the closest ER is out of network. I was having chest pains. I did not have time to search for an in-network ER during a cardiac emergency."
+  },
+  {
+    "doc_id": 107,
+    "text": "My hospital for my scheduled surgery was acquired by a health system and is now out-of-network for my plan. I found out 4 days before my surgery date and had to cancel."
+  },
+  {
+    "doc_id": 108,
+    "text": "The only psychiatrist who accepts my insurance in my county has a 5-month wait for a new patient appointment. I have a bipolar diagnosis that needs active management."
+  },
+  {
+    "doc_id": 109,
+    "text": "Telehealth visit was denied because the provider wasn't in-network. The telehealth platform is listed on your website as a covered in-network service."
+  },
+  {
+    "doc_id": 110,
+    "text": "I need to see a neurologist but every neurologist in the provider directory within 30 miles isn't accepting new patients. When does the directory reflect who is actually available?"
+  },
+  {
+    "doc_id": 111,
+    "text": "My daughter has severe anxiety and we were referred to a child psychologist. The only in-network child psychologist in our area doesn't see patients under 16. She's 13 years old."
+  },
+  {
+    "doc_id": 112,
+    "text": "Had a telehealth appointment and was told to go to the ER for a follow-up. Went to the nearest ER. It was out-of-network. Nobody warned me to check network status during an urgent situation."
+  },
+  {
+    "doc_id": 113,
+    "text": "I've been trying to find an in-network orthopedic surgeon for 6 weeks. Every office I call is either not accepting patients or not in-network. My knee is deteriorating."
+  },
+  {
+    "doc_id": 114,
+    "text": "My OB-GYN left the network in the middle of my pregnancy. I'm 7 months pregnant and now have to find a new doctor who will accept me this late in pregnancy."
+  },
+  {
+    "doc_id": 115,
+    "text": "Referral to physical therapy was denied because I need to get a second opinion from another doctor first. I just want to start PT and recover from my injury."
+  },
+  {
+    "doc_id": 116,
+    "text": "The provider directory says my gastroenterologist is in-network. She billed as out-of-network. Insurance told me the directory can be delayed in reflecting network changes. That's not acceptable."
+  },
+  {
+    "doc_id": 117,
+    "text": "Mental health parity is required by law but finding an in-network therapist who actually accepts my insurance is nearly impossible. The ones listed don't have openings for 4 months."
+  },
+  {
+    "doc_id": 118,
+    "text": "I had to drive 90 minutes each way to find an in-network specialist because everyone closer is out of network. The network in my rural area is extremely thin."
+  },
+  {
+    "doc_id": 119,
+    "text": "The telehealth platform says my plan is accepted. My insurance says the visit was out-of-network. I'm being billed $340 for a video call I was told was fully covered."
+  },
+  {
+    "doc_id": 120,
+    "text": "I called my insurance to confirm I don't need a referral for a specialist. Was told I don't. The specialist visit was then denied because no referral was on file."
+  },
+  {
+    "doc_id": 121,
+    "text": "My plan requires a referral for specialist visits but my PCP is 3 weeks out for a new appointment. I have to wait 3 weeks just to get a referral to start any specialist process."
+  },
+  {
+    "doc_id": 122,
+    "text": "The urgent care that accepts walk-ins and is 2 miles from my house is out-of-network. The in-network urgent care is 25 miles away and requires an appointment 2 days ahead."
+  },
+  {
+    "doc_id": 123,
+    "text": "Finding a dentist who accepts my dental plan in my neighborhood is almost impossible. Many in the directory aren't taking new patients or haven't been in-network for years."
+  },
+  {
+    "doc_id": 124,
+    "text": "I was hospitalized and discharged with a follow-up to a specialist. The specialist my hospital recommended is not in my plan's network. Nobody told me before discharge."
+  },
+  {
+    "doc_id": 125,
+    "text": "My son has autism and needs behavioral therapy. The one in-network ABA provider in our area has a 14-month waiting list and my insurance won't cover any out-of-network providers."
+  },
+  {
+    "doc_id": 126,
+    "text": "Telehealth seems like a great option but the app crashes every single time I try to connect with a provider. I've missed multiple appointments and been charged no-show fees."
+  },
+  {
+    "doc_id": 127,
+    "text": "I asked for a gap exception because there are no in-network providers for my specialty in my area. Denied. They claim there are adequate providers. The closest one is 2.5 hours away."
+  },
+  {
+    "doc_id": 128,
+    "text": "My in-network PCP referred me to an in-network specialist. The specialist used a hospitalist who turned out to be out-of-network. I had no way of knowing this in advance."
+  },
+  {
+    "doc_id": 129,
+    "text": "Finding a mental health provider who accepts my insurance and isn't a 6-month wait is basically impossible. I've called more than 20 numbers from the directory with no luck."
+  },
+  {
+    "doc_id": 130,
+    "text": "I live in a rural area and there are literally 2 in-network providers within a reasonable distance. Both are completely overwhelmed and neither is taking new patients."
+  },
+  {
+    "doc_id": 131,
+    "text": "My referral to a dermatologist was denied because the appointment was made before the referral was fully processed. By the time the referral came through the slot was gone."
+  },
+  {
+    "doc_id": 132,
+    "text": "I need mental health treatment urgently and cannot find a therapist through my insurance network. I ended up paying out of pocket because a 4-month wait isn't survivable."
+  },
+  {
+    "doc_id": 133,
+    "text": "The hospital for my emergency surgery was in-network. The surgeon who performed the surgery wasn't. I didn't pick my surgeon in an emergency. Now I owe $8,000 out-of-network."
+  },
+  {
+    "doc_id": 134,
+    "text": "My OB-GYN is in-network but the hospital she's affiliated with isn't for my plan. I either pay out-of-network rates or find a new OB at 5 months pregnant."
+  },
+  {
+    "doc_id": 135,
+    "text": "I'm trying to find an in-network sleep specialist. Your directory shows 4 in my area. Two have retired, one doesn't take insurance, and one isn't accepting new patients."
+  },
+  {
+    "doc_id": 136,
+    "text": "Telemedicine appointment was supposed to be covered at the same rate as an in-person primary care visit. It was billed at the specialist visit rate which is significantly higher."
+  },
+  {
+    "doc_id": 137,
+    "text": "I was referred to a specialist who is in-network but the testing facility they use is out-of-network. Nobody warns you about this arrangement when you schedule the appointment."
+  },
+  {
+    "doc_id": 138,
+    "text": "After my surgery I was in a rehabilitation facility for 10 days. My insurance only covered 5 days. The remaining 5 days cost me $14,000. Nobody explained this limitation before surgery."
+  },
+  {
+    "doc_id": 139,
+    "text": "My plan has a mental health visit limit of 30 sessions per year but my therapist says my condition requires more. My attorney says this may violate mental health parity laws."
+  },
+  {
+    "doc_id": 140,
+    "text": "Telehealth options are great in theory but none of the telehealth providers my insurance covers are able to prescribe controlled substances which is what I need for my ADHD."
+  },
+  {
+    "doc_id": 141,
+    "text": "I was on a waitlist at an in-network hospital for a scheduled procedure. They took me off the waitlist without notifying me because the slot expired. Now I'm starting the process over."
+  },
+  {
+    "doc_id": 142,
+    "text": "My gastroenterologist is 2 hours away because no in-network GI doctors are closer to me. For a quarterly chronic condition appointment this is not a sustainable situation."
+  },
+  {
+    "doc_id": 143,
+    "text": "My insurance plan lists mental health benefits but finding a covered provider who is culturally competent for my background and community is nearly impossible."
+  },
+  {
+    "doc_id": 144,
+    "text": "Went to an in-network urgent care. They referred me to an adjacent ER for additional testing. The ER was out-of-network and cost me $3,200 I wasn't expecting."
+  },
+  {
+    "doc_id": 145,
+    "text": "I tried to use telemedicine for a dermatology consult. The provider said I'd need to be seen in person anyway. Charged me a full specialist copay for a 5-minute video call."
+  },
+  {
+    "doc_id": 146,
+    "text": "My autism spectrum diagnosis requires an extensive evaluation. The in-network provider who does these evaluations has a 2-year waiting list in my state."
+  },
+  {
+    "doc_id": 147,
+    "text": "Provider directory showed my physical therapist as in-network. She wasn't. Cost me $1,800 in unexpected out-of-network charges. The directory is dangerously inaccurate."
+  },
+  {
+    "doc_id": 148,
+    "text": "I need a second opinion on a cancer diagnosis. The hospital I want for the second opinion isn't in my network. Getting out-of-network approval is a 30-day process."
+  },
+  {
+    "doc_id": 149,
+    "text": "My son broke his arm on a Saturday. The urgent care said he needed orthopedic surgery. The on-call orthopedic surgeon at the in-network hospital was not in-network. We had no choice."
+  },
+  {
+    "doc_id": 150,
+    "text": "My telehealth mental health appointment was cancelled 3 hours before by the provider with no explanation and no immediate reschedule option. Just a message to call back later."
+  },
+  {
+    "doc_id": 151,
+    "text": "Your app kicked me out in the middle of entering my payment information. When I logged back in the payment wasn't saved and I had to start the entire process over again."
+  },
+  {
+    "doc_id": 152,
+    "text": "I've been trying to find my member ID card on the app for a week. Every time I navigate to the ID card section the screen goes completely blank."
+  },
+  {
+    "doc_id": 153,
+    "text": "The portal shows my deductible as $0 remaining but when I called the amount is different. Which number is right? I need this information to make a real financial decision."
+  },
+  {
+    "doc_id": 154,
+    "text": "I cannot log into the member portal. I reset my password, got the reset email, set a new password and then it says the password is wrong. I've done this cycle 4 times now."
+  },
+  {
+    "doc_id": 155,
+    "text": "Your website is not mobile-friendly at all. I have to pinch and scroll constantly to see basic information. It is 2024 and this is still a significant problem."
+  },
+  {
+    "doc_id": 156,
+    "text": "I can't find where to submit a prior authorization request online. The portal supposedly has this feature but I cannot locate it anywhere. Everything just directs me to call instead."
+  },
+  {
+    "doc_id": 157,
+    "text": "My claims history only shows the last 6 months. I need to see claims from last year for my tax returns. There's no way to change the date range in the portal."
+  },
+  {
+    "doc_id": 158,
+    "text": "EOB documents take 3 to 5 minutes to load if they load at all. Most of the time I just get an error message after waiting."
+  },
+  {
+    "doc_id": 159,
+    "text": "The app doesn't recognize my face ID anymore even though I set it up and it worked perfectly for months. Now I have to type my password every single time."
+  },
+  {
+    "doc_id": 160,
+    "text": "I tried to update my primary care physician on the portal and got an error message every time I submitted. Had to call and wait on hold for 40 minutes to do a simple update."
+  },
+  {
+    "doc_id": 161,
+    "text": "My copay information shows two different amounts in two different places on the same portal. Which one is the accurate number I should expect to pay?"
+  },
+  {
+    "doc_id": 162,
+    "text": "The provider directory search on your website only lets me search by name. I should be able to filter by specialty, distance, and whether they're accepting new patients."
+  },
+  {
+    "doc_id": 163,
+    "text": "I tried to send a secure message through the portal about my claim. It said the message was sent. Never got a reply. 3 weeks later I still have no idea if it went through."
+  },
+  {
+    "doc_id": 164,
+    "text": "Your app crashes every time I try to download an EOB document. I need these documents for a medical expense reimbursement account submission."
+  },
+  {
+    "doc_id": 165,
+    "text": "The portal shows I have a $500 credit from an overpayment but there's no way to request a refund online. The only option is to call. Why can't I handle this digitally?"
+  },
+  {
+    "doc_id": 166,
+    "text": "I had to create a new account because I couldn't remember my username. The system won't let me create a new account because my email is already registered. I'm completely locked out."
+  },
+  {
+    "doc_id": 167,
+    "text": "My coverage information says it was updated today but the effective dates shown are from 3 months ago. The page is displaying stale and potentially incorrect information."
+  },
+  {
+    "doc_id": 168,
+    "text": "I found an error in my personal information on the portal. The update button doesn't work at all. Spent 20 minutes trying to submit a simple address change unsuccessfully."
+  },
+  {
+    "doc_id": 169,
+    "text": "The chat bot on your website is completely useless. It can't answer any specific questions and just tells me to call. Why offer a chat option that can't help with anything?"
+  },
+  {
+    "doc_id": 170,
+    "text": "My digital ID card shows an incorrect group number. When I try to use it at a provider they get an error. I've been carrying a handwritten correction note."
+  },
+  {
+    "doc_id": 171,
+    "text": "I submitted a claim reimbursement request through the portal and received no confirmation it was received. No email, no confirmation number, nothing in my portal history at all."
+  },
+  {
+    "doc_id": 172,
+    "text": "My prescription drug information on the portal is showing medications I haven't taken in 3 years. The medications I actually take currently aren't listed anywhere."
+  },
+  {
+    "doc_id": 173,
+    "text": "The benefit summary PDF on your portal is from last year. It is March and I still cannot see my current year plan documents anywhere on the portal."
+  },
+  {
+    "doc_id": 174,
+    "text": "Every time I check the portal my deductible amount changes. It went from $1,200 to $1,400 to $1,150 over 3 days with no claims activity. I need to know the real number."
+  },
+  {
+    "doc_id": 175,
+    "text": "Two-factor authentication sends a code to my old phone number. I can't change the phone number without first receiving a code at the old number. I am completely locked out."
+  },
+  {
+    "doc_id": 176,
+    "text": "I've been trying to find the claim appeal form on the portal for 2 days. A help article says it's under claims but it simply isn't there."
+  },
+  {
+    "doc_id": 177,
+    "text": "The portal shows my annual physical as pending but I had it 4 months ago and the provider confirmed the claim was submitted. The status hasn't updated in months."
+  },
+  {
+    "doc_id": 178,
+    "text": "The cost estimator tool gave me a quote of $250 for a procedure that ended up costing $1,400. The estimate was completely wrong and I was not financially prepared for the difference."
+  },
+  {
+    "doc_id": 179,
+    "text": "I can view my EOBs but I cannot print them. The print function doesn't work in either Chrome or Edge. I need physical copies for a legal matter and have no way to get them."
+  },
+  {
+    "doc_id": 180,
+    "text": "I enrolled in paperless statements but still receive paper mail. Then my email notifications stopped. Now I'm getting neither digital nor paper EOBs reliably."
+  },
+  {
+    "doc_id": 181,
+    "text": "I downloaded the app when my plan renewed. It's been 3 months and the app still displays my old plan information and benefits from last year."
+  },
+  {
+    "doc_id": 182,
+    "text": "The portal logged me out automatically while I was filling out a claim form. All my work was lost. There is no auto-save feature and no warning before the session expires."
+  },
+  {
+    "doc_id": 183,
+    "text": "I searched for appeal in the portal help search and got zero results. The appeals process isn't documented anywhere accessible in the member portal."
+  },
+  {
+    "doc_id": 184,
+    "text": "My account shows family coverage but only my information appears when I log in. I can't see my spouse's claims or EOBs despite having an active family plan."
+  },
+  {
+    "doc_id": 185,
+    "text": "The mobile app shows a notification badge but when I open it there's nothing new to see. This has been happening for weeks and I'm worried I'm missing important information."
+  },
+  {
+    "doc_id": 186,
+    "text": "I tried using the portal cost comparison tool to find pricing for a surgery. It returned no results for my zip code. The tool doesn't appear to work for rural areas at all."
+  },
+  {
+    "doc_id": 187,
+    "text": "I can't find my drug formulary anywhere in the member portal. The link from the help page goes to a 404 error page."
+  },
+  {
+    "doc_id": 188,
+    "text": "The portal shows my out-of-pocket maximum as $6,000 individual but my plan documents say $4,500. These two official sources should match. I don't know which one is right."
+  },
+  {
+    "doc_id": 189,
+    "text": "I set up autopay through the portal and my premium was still charged manually. When I look at payment settings autopay shows as active. Then why was I charged manually?"
+  },
+  {
+    "doc_id": 190,
+    "text": "My explanation of benefits emails link me to the portal but the link in the email doesn't work. I get a session error and have to log in separately every single time."
+  },
+  {
+    "doc_id": 191,
+    "text": "I tried to add my newborn to my plan through the portal within the 30-day qualifying event window. The portal said the change was submitted. Two months later she still isn't on my plan."
+  },
+  {
+    "doc_id": 192,
+    "text": "The portal health tracker feature asks me to connect my fitness tracker but the connection always fails. Based on the support forum this has been broken for 6 months."
+  },
+  {
+    "doc_id": 193,
+    "text": "I need to download all my EOBs for the year for a legal matter. There's no bulk download option. I have to download 47 individual documents one at a time."
+  },
+  {
+    "doc_id": 194,
+    "text": "The provider search shows a distance filter but it always defaults back to 50 miles no matter what custom distance I set. The setting doesn't stick."
+  },
+  {
+    "doc_id": 195,
+    "text": "I updated my email address on the portal 3 separate times over 2 months. Statements and EOBs are still going to my old email address. The update simply isn't saving."
+  },
+  {
+    "doc_id": 196,
+    "text": "The member portal and the mobile app show different information for the same claims. I don't know which source I'm supposed to trust for accurate information."
+  },
+  {
+    "doc_id": 197,
+    "text": "I used the find a doctor tool and carefully selected all my filters. Then I hit search and the page refreshed and lost all my filter selections. I had to start over 5 times."
+  },
+  {
+    "doc_id": 198,
+    "text": "My wellness program points are not showing up in the portal even though I completed the required activities weeks ago. I should be receiving a premium discount for completing them."
+  },
+  {
+    "doc_id": 199,
+    "text": "The portal session times out after 5 minutes of inactivity. Trying to fill out any longer form means constantly fighting the automatic timeout."
+  },
+  {
+    "doc_id": 200,
+    "text": "I can see a claim is denied in the portal but there's no reason given and no option to appeal directly from the portal view. I have to call just to find out why it was denied."
+  }
+]
