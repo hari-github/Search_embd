@@ -90,28 +90,38 @@ def get_provider(key: str) -> Optional[OllamaGeminiProvider]:
 
 
 @st.cache_resource
-def load_index(cache_dir_str: str) -> Tuple[Optional[np.ndarray], Optional[np.ndarray], Optional[List[Dict]], Dict]:
+def load_index(cache_dir_str: str, want_model: str) -> Tuple[Optional[np.ndarray], Optional[np.ndarray], Optional[List[Dict]], Dict]:
     """
-    Load the pre-computed embedding matrix and document list from ingest_local.py output.
-    Finds the most recently modified .npy file that has a matching .meta.json sidecar.
+    Load the pre-computed embedding matrix and document list.
 
-    Returns (centered_matrix, query_mean, documents, meta). The matrix is mean-centered
-    + normalized to undo gemini-embedding-2 anisotropy; query_mean must be applied to
-    query vectors so they sit in the same space.
+    Selects the cache whose .meta.json embed_model matches `want_model`, so the
+    doc vectors share the query's model/dimension. Selecting by file mtime is
+    unreliable on Streamlit Cloud — git clone gives every file the same
+    timestamp, which can pick a stale cache of a different dimension and crash
+    the cosine step.
+
+    Returns (centered_matrix, query_mean, documents, meta). The matrix is
+    mean-centered + normalized; query_mean must be applied to query vectors.
     """
     d = Path(cache_dir_str)
-    npy_files = sorted(
-        [f for f in d.glob("*.npy") if f.with_suffix(".meta.json").exists()],
-        key=lambda f: f.stat().st_mtime,
-        reverse=True,
-    )
-    if not npy_files:
+    candidates = []
+    for f in d.glob("*.npy"):
+        mp = f.with_suffix(".meta.json")
+        if mp.exists():
+            try:
+                m = json.load(open(mp, encoding="utf-8"))
+            except Exception:
+                m = {}
+            candidates.append((f, m))
+    if not candidates:
         return None, None, None, {}
 
-    npy_path  = npy_files[0]
-    meta_path = npy_path.with_suffix(".meta.json")
-    docs_path = d / "documents.json"
+    # Prefer the cache built with the same embedding model the app queries with.
+    matched = [(f, m) for f, m in candidates if m.get("embed_model") == want_model]
+    npy_path, meta = (matched[0] if matched
+                      else max(candidates, key=lambda fm: fm[0].stat().st_mtime))
 
+    docs_path = d / "documents.json"
     if not docs_path.exists():
         return None, None, None, {}
 
@@ -119,7 +129,6 @@ def load_index(cache_dir_str: str) -> Tuple[Optional[np.ndarray], Optional[np.nd
     query_mean = embedding_mean(raw)
     matrix     = center_normalize(raw, query_mean)
     documents  = json.load(open(docs_path, encoding="utf-8"))
-    meta       = json.load(open(meta_path, encoding="utf-8")) if meta_path.exists() else {}
     return matrix, query_mean, documents, meta
 
 
@@ -140,13 +149,23 @@ if provider is None:
 
 # ── Guard: index ──────────────────────────────────────────────────────────────
 
-doc_matrix, query_mean, documents, meta = load_index(cache_dir)
+doc_matrix, query_mean, documents, meta = load_index(cache_dir, OllamaGeminiProvider.embed_model)
 
 if doc_matrix is None:
     st.error(
-        f"No OllamaGemini embedding cache found in **{cache_dir}**.\n\n"
+        f"No embedding cache found in **{cache_dir}**.\n\n"
         "Build the cache first by running:\n"
         "```\npython ingest_local.py --csv your_data.csv --text-col comment\n```"
+    )
+    st.stop()
+
+# Safety net: the loaded cache must be the model the app queries with (free check,
+# no API call). Catches the case where only a stale/wrong-model cache is present.
+if meta.get("embed_model") != OllamaGeminiProvider.embed_model:
+    st.error(
+        f"No `{OllamaGeminiProvider.embed_model}` cache found in **{cache_dir}**. "
+        f"Loaded cache reports `{meta.get('embed_model', '?')}` "
+        f"({doc_matrix.shape[1]}-dim). Commit the gemini cache or remove stale `.npy` files."
     )
     st.stop()
 
