@@ -1,9 +1,0 @@
-{
-  "doc_count": 200,
-  "csv_path": "C:\\Users\\harip\\Documents\\Python\\Search\\Input.csv",
-  "text_col": "comment",
-  "content_fingerprint": "45820adf191e8fb6",
-  "provider": "OllamaGemini",
-  "embed_model": "embeddinggemma:300m",
-  "embed_dim": 768
-}
